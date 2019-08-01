@@ -28,6 +28,6 @@
             "entityIds": "[ADDTOCART_SERVICE-METHOD]",
             "upperSevere": 800.0,
             "upperWarning" : 600.0
-        },
+        }
     ]
 }
